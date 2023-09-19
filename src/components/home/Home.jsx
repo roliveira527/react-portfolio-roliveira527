@@ -7,7 +7,7 @@ const Home = () => {
       <div className="row">
         <div className="col-lg-5 col-custom">
           <h1>Welcome to Ricardo's Portfolio</h1>
-          <img src="\assets\headshot.jpg" alt="Headshot" className="img-fluid rounded-circle mt-4" width="300" />
+          <img src="/headshot.jpg" alt="Headshot" className="img-fluid rounded-circle mt-4" width="300" />
         </div>
         <div className="col-lg-5 col-custom">
           <h4>BSc Computer Science / Software Engineer</h4>
