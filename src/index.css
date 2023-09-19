@@ -5,5 +5,5 @@
     --beige: #E5E5E5;
     --white: #FFFFFF;
 
-    background-color: beige;
+    background-color: var(--beige);
 }
