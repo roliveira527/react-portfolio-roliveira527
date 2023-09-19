@@ -4,14 +4,17 @@ import './Home.css'
 const Home = () => {
   return (
     <div className="container-fluid mt-5 home-container">
-      <h1>Welcome to Ricardo's Portfolio</h1>
       <div className="row">
-        <div className="col-lg-6">
-          <img src="src\assets\headshot.jpg" alt="Headshot" className="img-fluid rounded-circle mt-4" width="500" />
+        <div className="col-lg-5 col-custom">
+          <h1>Welcome to Ricardo's Portfolio</h1>
+          <img src="src\assets\headshot.jpg" alt="Headshot" className="img-fluid rounded-circle mt-4" width="300" />
         </div>
-        <div className="col-lg-6">
-          <p>BSc Computer Science</p>
-          <p>Software Engineer</p>
+        <div className="col-lg-5 col-custom">
+          <h4>BSc Computer Science / Software Engineer</h4>
+          <p>
+            This is my portfolio where you can browse some of my projects.
+            You can also find more information on how you can contact me.
+          </p>
         </div>
       </div>
     </div>

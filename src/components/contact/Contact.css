@@ -1,0 +1,19 @@
+.container {
+    background-color: var(--yellow);
+    border: 2px solid var(--black);
+    border-radius: 4px;
+    color: var(--white);
+}
+
+h2 {
+    margin: 16px 0px;
+}
+
+.contact-form {
+    margin-bottom: 60px;
+}
+
+.horz-bar {
+    background-color: #fff;
+    border-top: 6px solid var(--black);
+}

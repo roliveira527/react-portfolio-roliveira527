@@ -1,4 +1,5 @@
 import React , { useState } from 'react';
+import './Contact.css';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -23,7 +24,7 @@ const Contact = () => {
   return (
     <div className="container mt-5">
       <h2>Contact Form</h2>
-      <form onSubmit={handleSubmit}>
+      <form className="contact-form" onSubmit={handleSubmit}>
         <div className="mb-3">
           <label htmlFor="name" className="form-label">Name</label>
           <input
@@ -61,6 +62,7 @@ const Contact = () => {
         </div>
         <button type="submit" className="btn btn-primary">Submit</button>
       </form>
+      <hr className="horz-bar"></hr>
       <h2 className="mt-5">Contact Information</h2>
       <p>GitHub: <a href="https://github.com/roliveira527">github.com/roliveira527</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/ricardo-oliveira-cs/">linkedin.com/in/ricardo-oliveira-cs/</a></p>
