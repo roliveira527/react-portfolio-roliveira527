@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Project 1",
+      "deployedLink": "https://example.com/project1",
+      "githubLink": "https://github.com/yourusername/project1",
+      "screenshot": "path_to_screenshot_project1.png"
+    },
+    {
+      "title": "Project 2",
+      "deployedLink": "https://example.com/project2",
+      "githubLink": "https://github.com/yourusername/project2",
+      "screenshot": "path_to_screenshot_project2.png"
+    },
+    {
+      "title": "Project 3",
+      "deployedLink": "https://example.com/project3",
+      "githubLink": "https://github.com/yourusername/project3",
+      "screenshot": "path_to_screenshot_project3.png"
+    }
+]
+  
