@@ -11,7 +11,7 @@ The project is deployed in the following URL: https://roliveira527.github.io/rea
 ## Screenshots
 
 Screenshot of the React portfolio:
-![react portfolio demo](src\assets\demo1.png)
+![react portfolio demo](public\demo1.png)
 
 ## Overview
 
