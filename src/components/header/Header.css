@@ -1,0 +1,13 @@
+@import "../../index.css";
+
+.container {
+    margin: 0px;
+}
+
+.navbar {
+    width: 100vw;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}
