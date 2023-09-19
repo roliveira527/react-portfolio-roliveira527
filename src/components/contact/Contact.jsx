@@ -69,7 +69,7 @@ const Contact = () => {
       <p>Email: r.deoliveira527@gmail.com</p>
       <p>Phone: (123) 456-7890</p>
       <p>CV: {"\n"}
-        <a href="src\assets\Ricardo_Oliveira_CV___1608.pdf" target="_blank" rel="noopener noreferrer">Download CV (PDF)</a>
+        <a href="\assets\Ricardo_Oliveira_CV___1608.pdf" target="_blank" rel="noopener noreferrer">Download CV (PDF)</a>
       </p>
     </div>
   );
